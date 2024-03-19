@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Xeivis and I'm a software developer</p>
+<p align="center">I'm <b>Xeivis</b> and I'm a software developer</p>
 
 ###
 
