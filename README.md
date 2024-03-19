@@ -4,11 +4,13 @@
 
 <p align="center">I'm <b>Xeivis</b> and I'm a <b>software developer</b></p>
 
-###
+<img aling="center" alt="Avatar" src=""/>
 
 ###
 
-<h3 align="center">I work with</h3>
+###
+
+<h3 align="center">I work with:</h3>
 
 ###
 
