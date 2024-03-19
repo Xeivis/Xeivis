@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm <b>Xeivis</b> and I'm a <b>software developer</b></p>
+<p align="center">My name is <b>Xeivis</b> and I'm a <b>software developer</b></p>
 
 <p align="center"><img height="150" alt="Avatar" src="https://avatars.githubusercontent.com/u/71793873?v=4"/></p>
 
