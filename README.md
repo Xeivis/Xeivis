@@ -4,7 +4,7 @@
 
 <p align="center">I'm <b>Xeivis</b> and I'm a <b>software developer</b></p>
 
-<img align="top" height="150" alt="Avatar" src="https://avatars.githubusercontent.com/u/71793873?v=4"/>
+<img align="bottom" height="150" alt="Avatar" src="https://avatars.githubusercontent.com/u/71793873?v=4"/>
 
 ###
 
