@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I work with:</h3>
+<h3 align="center">I've worked with:</h3>
 
 ###
 
